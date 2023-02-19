@@ -2,7 +2,7 @@
 ![logo](https://github.com/sopyantirtolaksono/SIM-KAS-SMKBhinnekaKendal/blob/main/src/dist/img/demo.PNG)
 
 ## Tentang
-- Aplikasi ini merupakan sebuah sistem informasi managemen KAS (SIM) berbasis web dengan studi kasus pada SMK Bhinneka Kendal
+- Aplikasi ini merupakan sebuah sistem informasi managemen KAS (SIM) berbasis web, sebagai bahan tugas akhir dengan studi kasus pada SMK Bhinneka Kendal
 - Aplikasi ini dibuat dengan teknologi seperti:
   - HTML
   - CSS
